@@ -1,4 +1,4 @@
-# ethanzimmermann.github.io
+# vue-home-page
 
 ## Project setup
 ```
